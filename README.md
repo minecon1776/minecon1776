@@ -1,0 +1,1 @@
+Hello, Im minecon1776 and I post programs that I make in a variety of languages (C++, C, Python, Java, JavaScript, Assembly, and more). Anyone who stubles across this profile is free to fork any of my repositories and improve on my work. Everything here is my personal work like my projects and just for fun (don't expect good or well commented code). 
